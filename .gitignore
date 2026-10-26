@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+data/
+*.duckdb
+*.duckdb.wal
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
